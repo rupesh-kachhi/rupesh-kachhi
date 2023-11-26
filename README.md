@@ -8,4 +8,4 @@
 #### About Me
 
 - I am in my final year pursuing B.Tech from Global Engineering College, Jabalpur (2020-2024).
-- I am currently working at [**Sumati.io**] as a Junior Software Developer.
+- I am currently working at **Sumati.io** as a Junior Software Developer.
